@@ -1,2 +1,3 @@
 *.pdf
 src/venv
+src/.idea
